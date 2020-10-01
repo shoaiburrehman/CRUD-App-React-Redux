@@ -1,3 +1,7 @@
+# CRUD App With React-Redux
+
+![CRUD App](https://user-images.githubusercontent.com/39486938/94860557-ad382f00-044f-11eb-8167-7563fbbfba93.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
